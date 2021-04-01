@@ -1,5 +1,4 @@
-# DM_Project1
-**数据挖掘互评作业1：数据探索性分析与数据预处理**
+# 数据挖掘互评作业1：数据探索性分析与数据预处理
 使用数据集为[Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)和[Chicago Building Violations](https://www.kaggle.com/chicago/chicago-building-violations)
 
 对于两个数据集的处理程序分别在两个python源文件中。使用前需先安装pandas, numpy, matplotlib三个python库
